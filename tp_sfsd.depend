@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1731964264 source:d:\sfsd\tp1\tp_sfsd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"functions.h"
+
+1731964336 d:\sfsd\tp1\tp_sfsd\functions.h
+
